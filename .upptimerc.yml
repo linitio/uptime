@@ -5,6 +5,8 @@ repo: uptime
 sites:
   - name: LinIT
     url: https://linit.io
+  - name: Authentifcation LinIT
+    url: https://auth.linit.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
