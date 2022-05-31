@@ -4,18 +4,20 @@
     "url": "https://linit.io",
     "icon": "https://favicons.githubusercontent.com/linit.io",
     "slug": "lin-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2444,
-    "timeDay": 2444,
+    "timeDay": 3587,
     "timeWeek": 2444,
     "timeMonth": 2444,
     "timeYear": 2444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   },
   {
     "name": "Authentifcation LinIT",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
-    "timeDay": 566,
+    "timeDay": 451,
     "timeWeek": 566,
     "timeMonth": 566,
     "timeYear": 566,
